@@ -8,5 +8,4 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: mail 
 
-<img src="https://github-readme-stats.vercel..app/api?username=sagar598&&show_icon=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
