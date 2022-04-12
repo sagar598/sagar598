@@ -5,8 +5,8 @@
 - 🌱 I’m currently pursuing B.Tech with the specialization of information technology ...
 - 👯 I’m looking to collaborate on youtube
 - 💖 Hobbies - 💻 programming , 🏏Cricket , ⚽ Football , 🎮 Video Games , 🖼 painting , 🎵 Singing & Listening Music , 📗 Reading , 🎬 Acting , 🎥 Video Editing , 🖋 Writing , 🏍Travelling , 😎Fashion ...
-- 💬 Ask me about web development
-- 📫 How to reach me: mail 
+- 💬 Ask me about html,css,bootstrap,js,react js
+
 #  ⭐️streak
 <img src="https://github-readme-stats.vercel.app/api?username=sagar598&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
